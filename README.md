@@ -1,6 +1,13 @@
-Hi, I’m @nwd-dev, the designer behind [a nicolawebdesign.com](https://nicolawebdesign.com).
+## Nice to meet you
+Hi, I’m @nwd-dev, the designer behind [nicolawebdesign.com](https://nicolawebdesign.com).
 
-Titles and internal titles
-Introduction - the project's aim
-Technologies
-Launch
+## Welcome
+You're welcome in my Github account. Let me introduce what you can find here.
+- good design and inspiration about UI Design (mobile and desktop application or website),
+- some interesting projects to take as a template for your programmes.
+
+## Technologies
+* Dart (Flutter)
+* Python
+* Php
+* Html & CSS
